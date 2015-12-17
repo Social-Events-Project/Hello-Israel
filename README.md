@@ -1,5 +1,5 @@
 # Hello-Israel
-My tutorial and first project at GitHub.
+My tutorial and first project .
 
-I am special Java Developer!!! :-)
+I am a Java Developer!!! :-)
 Now I learn about commit. 
